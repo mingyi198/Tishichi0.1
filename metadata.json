@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 提示词助手",
+  "description": "一个强大的AI助手，使用Gemini API生成和优化图片提示词。",
+  "requestFramePermissions": []
+}
